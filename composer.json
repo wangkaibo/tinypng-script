@@ -1,0 +1,11 @@
+{
+    "name": "wangkaibo/tinypng-script",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wkaiboo",
+            "email": "wkaiboo@gmail.com"
+        }
+    ],
+    "require": {}
+}
