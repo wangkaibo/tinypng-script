@@ -7,5 +7,10 @@
             "email": "wkaiboo@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tinify/tinify": "*",
+        "vlucas/phpdotenv": "^3.3",
+        ext-fileinfo: "*",
+        ext-json: "*"
+    }
 }
